@@ -5,8 +5,8 @@ body{
 
 .avatar{
   width: 150px;
-
 }
+
 .card{
   width: 400px;
   margin:0 auto;
@@ -22,5 +22,5 @@ body{
   font-style: italic;
 }
 .border-blue{
-  border:1px dotted blue;
+  border:1px dotted lightskyblue;
 }
